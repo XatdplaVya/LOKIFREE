@@ -1,0 +1,28 @@
+[
+{
+"id":"us",
+  "name":" (US) United States America"
+  },
+  {
+  "id":"au",
+    "name":" (AU) Australia "
+    },
+    {
+    "id":"br",
+    "name":" (BR) Brazil "
+    },
+    {
+    "id":"ca",
+    "name":"(CA) Canada "
+    },
+    {
+    "id":"ch",
+    "name":" (CH) Switzerland "
+    },
+    {
+    "id":"de",
+    "name":" (DE) Germany "
+    }
+
+    ]
+    
