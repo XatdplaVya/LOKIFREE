@@ -1,27 +1,34 @@
 [
 {
 "id":"us",
-  "name":" (US) United States America"
+  "name":" (US) United States America",
+ "flag":"https://flagcdn.com/w320/us.png"
   },
   {
   "id":"au",
-    "name":" (AU) Australia "
+    "name":" (AU) Australia ",
+"flag":"https://flagcdn.com/w320/au.png"
+
     },
     {
     "id":"br",
-    "name":" (BR) Brazil "
+    "name":" (BR) Brazil ",
+"flag":"https://flagcdn.com/w320/br.png"
     },
     {
     "id":"ca",
-    "name":"(CA) Canada "
+    "name":"(CA) Canada ",
+"flag":"https://flagcdn.com/w320/ca.png"
     },
     {
     "id":"ch",
-    "name":" (CH) Switzerland "
+    "name":" (CH) Switzerland ",
+"flag":"https://flagcdn.com/w320/ch.png"
     },
     {
     "id":"de",
-    "name":" (DE) Germany "
+    "name":" (DE) Germany ",
+"flag":"https://flagcdn.com/w320/de.png"
     }
 
     ]
